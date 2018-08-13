@@ -1,5 +1,9 @@
 # LShipParts :: Change Log
 
+* 2016-0910: 3.5.1 (Laythe) for KSP 1.2
+	+ Many new and reworked parts,
+	+ Too many to list
+	+ Visit forum for more details.
 * 2016-0709: 3.5 (Laythe) for KSP 1.1.3
 	+ Version 3.5
 	+ New long medium hull amphibious hangar
