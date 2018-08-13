@@ -1,5 +1,8 @@
 # LShipParts :: Change Log
 
+* 2016-0311: 2.8 (Laythe) for KSP 1.0.5
+	+ Added a functioning bridge (No IVA yet).
+	+ Nerfed the small boat parts.
 * 2016-0307: 2.7 (Laythe) for KSP 1.0.5
 	+ Added trimaran hull parts.
 	+ Remodeled the water jet (shouldn't break ships, Postponed some features also. Sorry)
