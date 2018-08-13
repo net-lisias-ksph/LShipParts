@@ -1,5 +1,9 @@
 # LShipParts :: Change Log
 
+* 2016-0624: 3.4 (Laythe) for KSP 1.1.3
+	+ Added VLS sections for sub, vette and large superstructures
+	+ Added Custom drive unit, propeller z drive
+	+ Altered weight and buoyancy of vette hull
 * 2016-0515: 3.3 (Laythe) for KSP 1.1.2
 	+ Updated the tumblehome bow (still needs to be fixed. But I got the dimensions more correct).
 	+ Changed the resource the waterjet2 uses and gave it an electric charge generator.
