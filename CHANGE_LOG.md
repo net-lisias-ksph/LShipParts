@@ -1,5 +1,8 @@
 # LShipParts :: Change Log
 
+* 2016-0330: 3.1.1 (Laythe) for KSP 1.1
+	+ The mod still works fine in 1.1
+	+ Please tell me if something is wrong with the mod on the forums or my steam.
 * 2016-0326: 3.1 (Laythe) for KSP 1.0.5
 	+ Added submarine parts (Work in progress) and a way to sink them
 	+ Added a ballast tank
