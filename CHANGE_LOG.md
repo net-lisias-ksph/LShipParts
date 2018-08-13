@@ -1,5 +1,9 @@
 # LShipParts :: Change Log
 
+* 2016-0303: 2.6 (Laythe) for KSP 1.0.5
+	+ Removed small bridge (for now)
+	+ Remodeled the medium stern (looks good now. Shouldn't break craft)
+	+ Removed extra geometry in both large and medium bows.
 * 2016-0302: 2.5 (Laythe) for KSP 1.0.5
 	+ Fixed a serious model error with the modern front superstructure part
 	+ Fixed a UV mapping error with the carrier hull
