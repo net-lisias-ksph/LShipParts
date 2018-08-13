@@ -1,5 +1,9 @@
 # LShipParts :: Change Log
 
+* 2016-0307: 2.7 (Laythe) for KSP 1.0.5
+	+ Added trimaran hull parts.
+	+ Remodeled the water jet (shouldn't break ships, Postponed some features also. Sorry)
+	+ Added W.I.P. VLS hull parts (fits medium size hulls)
 * 2016-0303: 2.6 (Laythe) for KSP 1.0.5
 	+ Removed small bridge (for now)
 	+ Remodeled the medium stern (looks good now. Shouldn't break craft)
