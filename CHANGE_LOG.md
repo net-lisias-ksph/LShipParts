@@ -1,5 +1,8 @@
 # LShipParts :: Change Log
 
+* 2017-1025: 3.7.5 (Laythe) for KSP 1.3.1
+	+ DG10K overhaul/refit
+	+ balance and ballast tuning
 * 2017-0204: 3.7.0 (Laythe) for KSP 1.2.2
 	+ The Lizzy update
 	+ Adds QE Battleship hull
