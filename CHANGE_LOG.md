@@ -1,5 +1,11 @@
 # LShipParts :: Change Log
 
+* 2016-0326: 3.1 (Laythe) for KSP 1.0.5
+	+ Added submarine parts (Work in progress) and a way to sink them
+	+ Added a ballast tank
+	+ Added a new engine designed around submarine use
+	+ Re balanced some parts.
+	+ Included a craft file for an almost perfectly functioning submarine. (Needs: BDArmory & Procedural Wings)
 * 2016-0318: 3.0 (Laythe) for KSP 1.0.5
 	+ Added TumbleHome Bow
 	+ Added Helicopter Stern
