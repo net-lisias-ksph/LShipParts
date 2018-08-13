@@ -1,5 +1,14 @@
 # LShipParts :: Change Log
 
+* 2016-0404: 3.2 (Laythe) for KSP 1.1
+	+ MAJOR CHANGES [THIS VERSION WORKS IN BOTH 1.1 AND 1.0.5]
+	+ THIS WILL BREAK A LOT OF YOUR SHIPS. MANY PARTS HAVE BEEN REBUILT AND RENAMED.
+		- Split the mod apart (you need the required folder. Other 2 are optional but if you want the full experience then use them both)
+		- Added 20 new parts
+		- Rebuilt some old parts (Not medium modern superstructure parts or carrier parts)
+		- Fixed some bugs
+		- Changed some configs
+		- Probably some other smaller stuff I forgot about
 * 2016-0330: 3.1.1 (Laythe) for KSP 1.1
 	+ The mod still works fine in 1.1
 	+ Please tell me if something is wrong with the mod on the forums or my steam.
