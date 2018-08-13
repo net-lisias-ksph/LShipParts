@@ -1,5 +1,10 @@
 # LShipParts :: Change Log
 
+* 2017-0705: 3.9.0 (Laythe) for KSP 1.3.0
+	+ EN US localization
+	+ Standardization of gui elements and modules
+	+ texture updates
+	+ Many small fixes
 * 2017-1025: 3.7.5 (Laythe) for KSP 1.3.1
 	+ DG10K overhaul/refit
 	+ balance and ballast tuning
