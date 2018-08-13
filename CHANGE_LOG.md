@@ -1,5 +1,9 @@
 # LShipParts :: Change Log
 
+* 2016-0302: 2.5 (Laythe) for KSP 1.0.5
+	+ Fixed a serious model error with the modern front superstructure part
+	+ Fixed a UV mapping error with the carrier hull
+	+ Updated textures to a darker theme.
 * 2016-0228: 2.4 (Laythe) for KSP 1.0.5
 	+ Added new parts for smaller vessels
 	+ Edited the carrier parts (Will not break your ships)
