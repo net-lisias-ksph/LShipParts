@@ -1,5 +1,14 @@
 # LShipParts :: Change Log
 
+* 2016-0709: 3.5 (Laythe) for KSP 1.1.3
+	+ Version 3.5
+	+ New long medium hull amphibious hangar
+	+ New short medium hull amphibious hangar
+	+ New medium bridge
+	+ New large bridge
+	+ New prop and shaft drive unit
+	+ NEW (requires BD armory)  new medium VLS hull section by TheMorris
+	+ New Ballast keel
 * 2016-0625: 3.4.1 (Laythe) for KSP 1.1.3
 	+ Fixed alignment of nodes on sub VLS
 	+ Reworked sub cfg's to add water pumps, intake air, electric charge, liquid fuel in preparation for the new engines
