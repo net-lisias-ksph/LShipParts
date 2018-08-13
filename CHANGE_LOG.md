@@ -1,5 +1,7 @@
 # LShipParts :: Change Log
 
+* 2017-1025: 3.9.2 (Laythe) for KSP 1.4.4
+	+ No changelog provided
 * 2017-0714: 3.9.1 (Laythe) for KSP 1.3.0
 	+ Fix missing carrier bow
 	+ module changes
