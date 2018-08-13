@@ -1,5 +1,8 @@
 # LShipParts :: Change Log
 
+* 2016-0228: 2.4 (Laythe) for KSP 1.0.5
+	+ Added new parts for smaller vessels
+	+ Edited the carrier parts (Will not break your ships)
 * 2016-0226: 2.3 (Laythe) for KSP 1.0.5
 	+ Removed Carrier deck parts
 	+ Added dedicated carrier parts. (You can make a working full size carrier in around 4 parts)
