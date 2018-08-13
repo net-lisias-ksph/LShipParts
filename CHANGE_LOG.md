@@ -1,5 +1,9 @@
 # LShipParts :: Change Log
 
+* 2017-0204: 3.7.0 (Laythe) for KSP 1.2.2
+	+ The Lizzy update
+	+ Adds QE Battleship hull
+	+ Adds Battleship superstructure parts
 * 2016-1029: 3.6.1 (Laythe) for KSP 1.2
 	+ Fix missing resource cfg
 * 2016-0910: 3.5.1 (Laythe) for KSP 1.2
