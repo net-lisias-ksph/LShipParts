@@ -1,5 +1,9 @@
 # LShipParts :: Change Log
 
+* 2016-0515: 3.3 (Laythe) for KSP 1.1.2
+	+ Updated the tumblehome bow (still needs to be fixed. But I got the dimensions more correct).
+	+ Changed the resource the waterjet2 uses and gave it an electric charge generator.
+	+ Probably some other stuff. Please tell me if I messed up on something.
 * 2016-0404: 3.2 (Laythe) for KSP 1.1
 	+ MAJOR CHANGES [THIS VERSION WORKS IN BOTH 1.1 AND 1.0.5]
 	+ THIS WILL BREAK A LOT OF YOUR SHIPS. MANY PARTS HAVE BEEN REBUILT AND RENAMED.
