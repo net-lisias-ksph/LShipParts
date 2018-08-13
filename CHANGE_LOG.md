@@ -1,5 +1,11 @@
 # LShipParts :: Change Log
 
+* 2016-0318: 3.0 (Laythe) for KSP 1.0.5
+	+ Added TumbleHome Bow
+	+ Added Helicopter Stern
+	+ Added a shorter Modern Supers. Front
+	+ Added a Zumwalt style superstructure
+	+ Nerfed Medium and small size parts (Large parts remain the same).
 * 2016-0314: 2.9 (Laythe) for KSP 1.0.5
 	+ Gave all parts a new shader
 	+ Removed VLS parts (going to make a better version)
