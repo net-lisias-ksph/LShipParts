@@ -1,5 +1,9 @@
 # LShipParts :: Change Log
 
+* 2016-0314: 2.9 (Laythe) for KSP 1.0.5
+	+ Gave all parts a new shader
+	+ Removed VLS parts (going to make a better version)
+	+ Updated carrier parts
 * 2016-0311: 2.8 (Laythe) for KSP 1.0.5
 	+ Added a functioning bridge (No IVA yet).
 	+ Nerfed the small boat parts.
