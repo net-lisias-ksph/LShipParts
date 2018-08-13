@@ -1,5 +1,11 @@
 # LShipParts :: Change Log
 
+* 2016-0625: 3.4.1 (Laythe) for KSP 1.1.3
+	+ Fixed alignment of nodes on sub VLS
+	+ Reworked sub cfg's to add water pumps, intake air, electric charge, liquid fuel in preparation for the new engines
+	+ Altered buoyancy on sub hull parts, it will sink now
+	+ Added water pump and resources to sub tower
+	+ Reworked buoyancy on vette hull parts
 * 2016-0624: 3.4 (Laythe) for KSP 1.1.3
 	+ Added VLS sections for sub, vette and large superstructures
 	+ Added Custom drive unit, propeller z drive
