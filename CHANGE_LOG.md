@@ -1,5 +1,8 @@
 # LShipParts :: Change Log
 
+* 2017-0714: 3.9.1 (Laythe) for KSP 1.3.0
+	+ Fix missing carrier bow
+	+ module changes
 * 2017-0705: 3.9.0 (Laythe) for KSP 1.3.0
 	+ EN US localization
 	+ Standardization of gui elements and modules
