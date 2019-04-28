@@ -4,7 +4,7 @@ This is a unofficial, non authorized repository for **Large Boat Parts Pack** fo
 
 
 ## In a Hurry
-* [Binaries](https://github.com/net-lisias-kspu/LShipParts/tree/Archive)
+* [Binaries](https://github.com/net-lisias-ksph/LShipParts/tree/Archive)
 * Sources
 	+ WiP
 * [Change Log](./CHANGE_LOG.md)
