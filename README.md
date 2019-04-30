@@ -31,9 +31,12 @@ I made these to fill in the gap of naval vessels in ksp with BDArmory mods. Here
 
 ### Dependencies
 
-* [Kerbal Joint Reinforcement](https://forum.kerbalspaceprogram.com/index.php?/topic/50911-13-kerbal-joint-reinforcement-v333-72417/).
-	+ ALWAYS USE LBP IN CONJUNCTION WITH KJR (KERBAL JOINT REINFORCEMENT) STRUTS AND AUTOSTRUT ARE TOTALLY INEFFECTIVE ON OBJECTS OF THIS SIZE
-
+* Mandatory
+	+ [Kerbal Joint Reinforcement](https://forum.kerbalspaceprogram.com/index.php?/topic/50911-13-kerbal-joint-reinforcement-v333-72417/).
+		- ALWAYS USE LBP IN CONJUNCTION WITH KJR (KERBAL JOINT REINFORCEMENT) STRUTS AND AUTOSTRUT ARE TOTALLY INEFFECTIVE ON OBJECTS OF THIS SIZE
+* Recommended
+	+ [Hull Breach]()
+	+ [Destruction FX]() 
 
 ## License
 
@@ -54,8 +57,12 @@ You are authorized to fork this repository under GitHub [ToS](https://help.githu
 ## References
 
 * [smce](https://forum.kerbalspaceprogram.com/index.php?/profile/50907-spannermonkeysmce/)
-	+ [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/155992-14x-large-boat-parts-pack-v393-read-first-post-before-installing/)
- 	+ [Spacedock](http://spacedock.info/mod/167/Large%20Boat%20Parts%20Pack)
+	* Large Boats Pack BDA damage and armor overhaul version
+		- [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/155992-14x-large-boat-parts-pack-v393-read-first-post-before-installing/&)
+	 	- [GitHub](https://github.com/SpannerMonkey/Large-Boat-Parts-/)
+	* Large Boats Pack 
+		- [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/155992-14x-large-boat-parts-pack-v393-read-first-post-before-installing/)
+	 	- [Spacedock](http://spacedock.info/mod/167/Large%20Boat%20Parts%20Pack)
 * [Laythe2](https://forum.kerbalspaceprogram.com/index.php?/profile/159748-laythe2/) ROOT
 	+ [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/profile/159748-laythe2/)
 	+ [CurseForge](https://mods.curse.com/ksp-mods/kerbal/241785-large-boat-parts-pack)
